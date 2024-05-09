@@ -25,7 +25,7 @@ const connection = mysql.createConnection({
     host: 'localhost',
     user: 'root',
     database: 'appuser',
-    password: 'V@nShU2005',
+    password: '***********',
   });
 
 //HOME ROUTE
